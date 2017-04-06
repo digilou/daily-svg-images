@@ -11,3 +11,4 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 ## Week 2 - Emojis
 6. Alien monster emoji 👾
 7. Hear-No-Evil Monkey 🙉
+8. Skull 💀
