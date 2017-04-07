@@ -12,3 +12,4 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 6. Alien monster emoji 👾
 7. Hear-No-Evil Monkey 🙉
 8. Skull 💀
+9. Hatching chick 🐣
