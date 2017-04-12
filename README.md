@@ -14,3 +14,7 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 8. Skull 💀
 9. Hatching chick 🐣
 10. Emoji of choice
+
+## Week 3 - Legos
+11. Lego Batman
+12. Lego Jurassic Park
