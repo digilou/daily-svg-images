@@ -18,3 +18,4 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 ## Week 3 - Legos
 11. Lego Batman
 12. Lego Jurassic Park
+13. Lego construction
