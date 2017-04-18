@@ -20,3 +20,7 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 12. Lego Jurassic Park
 13. Lego construction
 14. Lego police man
+15. Lego character of choice
+
+## Week 4 - Instruments
+16. Drum Kit
