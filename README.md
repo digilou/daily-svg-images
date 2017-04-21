@@ -22,7 +22,8 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 14. Lego police man
 15. Lego character of choice
 
-## Week 4 - Instruments
+## Week 4 - Music
 16. Drum Kit
 17. Guitar Hero controller
 18. Harmonica
+19. Musical Note
