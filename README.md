@@ -27,3 +27,6 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 17. Guitar Hero controller
 18. Harmonica
 19. Musical Note
+20. Instrument of choice
+
+## Week 5
