@@ -34,3 +34,4 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 22. Spyro the dragon
 23. Mr. Driller
 24. Ape (from Ape Escape)
+25. Favorite Playstation character
