@@ -35,3 +35,7 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 23. Mr. Driller
 24. Ape (from Ape Escape)
 25. Favorite Playstation character
+
+## Week 6 - Dessert
+26. Sprinkled donuts
+27. Cake
