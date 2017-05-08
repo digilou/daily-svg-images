@@ -41,3 +41,4 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 27. Cake
 28. Sushi platter
 29. Pineapple house
+30. Food of choice
