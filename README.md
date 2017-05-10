@@ -42,3 +42,7 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 28. Sushi platter
 29. Pineapple house
 30. Food of choice
+
+## Week 7 - Space
+31. Astronaut
+32. Planet
