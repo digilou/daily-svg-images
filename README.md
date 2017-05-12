@@ -47,3 +47,4 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 31. Astronaut
 32. Planet
 33. Meteor
+34. Spaceship
