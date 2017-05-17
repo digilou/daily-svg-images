@@ -48,3 +48,8 @@ Images created with SVG. Initiated by the Coding Artist challenge.
 32. Planet
 33. Meteor
 34. Spaceship
+35. Space
+
+## Week 8 - Birds
+36. tucan
+37. cardinal
